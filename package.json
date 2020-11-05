@@ -1,6 +1,6 @@
 {
-  "name": "nesthydrationjs",
-  "version": "2.0.0",
+  "name": "@yokedev/nesthydrationjs",
+  "version": "2.0.0-yoke-v0.0.1",
   "description": "Provides nested objects from tabular data.",
   "keywords": [
     "Hydration",
